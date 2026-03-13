@@ -1,4 +1,4 @@
-# Controlled Synthetic Scene Generator (Moonstone-style)
+# Controlled Synthetic Scene Generator
 
 This repository is a small **Blender-based synthetic media pipeline** designed to generate **controlled image variations** (camera views, object color, lighting, and layout) for **AI evaluation / dataset building**.
 
